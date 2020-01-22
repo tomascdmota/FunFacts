@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FunFacts</string>
+    <string name="welcome_to_fun_facts">Welcome to Fun Facts!</string>
+    <string name="begin">Begin</string>
+    <string name="let_s_get_started">Let\'s get started</string>
+    <string name="new_fact">New Fact</string>
+</resources>
